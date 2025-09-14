@@ -1,6 +1,6 @@
 # Aarat Mapara
 
-Data Analytics & Insights | Python • SQL • Power BI • Tableau • ML
+#### Data Analytics & Insights | Python • SQL • Power BI • Tableau • ML
 Focused on transforming raw data into clear, actionable insights.
 ---
 
@@ -15,7 +15,6 @@ Focused on transforming raw data into clear, actionable insights.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
 
