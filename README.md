@@ -1,13 +1,13 @@
 # Aarat Mapara
 
 #### Data Analytics & Insights | Python • SQL • Power BI • Tableau • ML
-#####mFocused on transforming raw data into clear, actionable insights.
+##### Focused on transforming raw data into clear, actionable insights.
 ---
 
-## Socials
+#### Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/aarat-mapara-637b00193/)
 
-### Tech Stack
+##### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/-SQL-white?style=flat&logo=postgresql&logoColor=336791)
@@ -18,7 +18,7 @@
 
 ---
 
-## Certifications
+#### Certifications
 - Google Advanced Data Analytics
 - Quantium Data Analytics Job Simulation  
 - JPMorgan Quantitative Research Virtual Experience  
