@@ -18,7 +18,6 @@ Focused on turning complex datasets into actionable insights across industries, 
 - Quantium Data Analytics Job Simulation (Forage, Sep 2025)  
 - JPMorgan Quantitative Research Virtual Experience (Forage, Sep 2025)  
 - HackerRank SQL (Basic & Intermediate, Sep 2025)  
-- Google Digital Marketing & E-commerce Professional Certificate (Sep 2023)  
 - Generative AI for Healthcare (Mar 2025)
 
 ---
