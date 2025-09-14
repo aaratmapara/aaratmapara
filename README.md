@@ -4,9 +4,6 @@
 ##### Focused on transforming raw data into clear, actionable insights.
 ---
 
-#### Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/aarat-mapara-637b00193/)
-
 ##### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python&logoColor=3776AB)
